@@ -15,3 +15,7 @@ Information exchange between experts in Spatial AI field from industry to academ
 미팅 영상은 [YouTube 채널](https://www.youtube.com/@SpatialAIKR)에, 미팅 로그는 [Issue 페이지](https://github.com/changh95/WeeklySpatialAI/issues)에 남깁니다.
 
 We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@SpatialAIKR), and our meeting logs on the [issue page](https://github.com/changh95/WeeklySpatialAI/issues).
+
+|Date|Link|Video|
+|------|---|---|
+|test.test.test|[테스트2](https://github.com/changh95/WeeklySpatialAI/issues/1)|[테스트3](https://www.youtube.com/@SpatialAIKR)|
