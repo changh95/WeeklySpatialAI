@@ -18,4 +18,4 @@ We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@Spa
 
 |Date|Link|Video|
 |------|---|---|
-|test.test.test|[테스트2](https://github.com/changh95/WeeklySpatialAI/issues/1)|[테스트3](https://www.youtube.com/@SpatialAIKR)|
+|2024.07.24|[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/1)|-|
