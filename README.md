@@ -23,4 +23,6 @@ We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@Spa
 |2024.08.07|[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/5)| [YouTube](https://youtu.be/tJ5_WKULmVQ?si=Bx6ddkifa_KQKWKi)|
 |2024.08.14|[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/6)| [YouTube](https://youtu.be/MDvD_JEv9SY?si=wCYA2n5kpxQHx6Gn)|
 |2024.08.21|[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/7)| [YouTube](https://youtu.be/Pi-DYBK3bxs?si=b8tK8BkpSvUXir2A)|
-
+|2024.08.28|[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/8)| [YouTube](https://youtu.be/gaRviiuPdGI?si=fLppi_C_v_ouU-Ix)|
+|2024.09.04|Break!| Break! |
+|2024.09.11|[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/9)| Not yet uploaded|
