@@ -27,4 +27,4 @@ We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@Spa
 |2024.09.04| Break! | Break!| Break! |
 |2024.09.11| GenWarp, ReconX, OmniRe, FIT3D, NVIDIA GPU Overview |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/9)| [YouTube](https://youtu.be/Rr45MAeHJz0?si=GyfyW_m92NpRUynt)|
 |2024.09.28| Break! | Break!| Break!|
-|2024.09.25| GenWarp, ReconX, OmniRe, FIT3D, NVIDIA GPU Overview |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/10)| Not yet uploaded!|
+|2024.09.25| World models (Wayve, 1X, World Labs), MaskBEV, RockChip micro-NPU, M2-Mapping |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/10)| Not yet uploaded!|
