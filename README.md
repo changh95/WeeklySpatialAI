@@ -27,8 +27,8 @@ We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@Spa
 |2024.09.04| Break! | Break!| Break! |
 |2024.09.11| GenWarp, ReconX, OmniRe, FIT3D, NVIDIA GPU Overview |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/9)| [YouTube](https://youtu.be/Rr45MAeHJz0?si=GyfyW_m92NpRUynt)|
 |2024.09.28| Break! | Break!| Break!|
-|2024.09.25| World models (Wayve, 1X, World Labs), MaskBEV, RockChip micro-NPU, M2-Mapping |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/10)| Not yet uploaded!|
-|2024.10.01| MASt3R-SfM, Hyperion, latentSplat, RL meets VO, Aria dataset, NVIDIA GPU overview part 2 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/11)| Not yet uploaded!|
-|2024.10.09| MonST3R, Depth Pro, EVER, KISS-Matcher, Nano-PGO, ST-P3 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/12)| Not yet uploaded!|
-|2024.10.15| CLIP-Clique, FoundPose, Tesla CyberCab/Robovan, MEVIUS, WildFusion, 𝛼LiDAR |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/13)| Not yet uploaded!|
+|2024.09.25| World models (Wayve, 1X, World Labs), MaskBEV, RockChip micro-NPU, M2-Mapping |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/10)| [YouTube](https://youtu.be/bX2iCM1sJ1g?si=yx2Su5E3r_9sTaoh)|
+|2024.10.01| MASt3R-SfM, Hyperion, latentSplat, RL meets VO, Aria dataset, NVIDIA GPU overview part 2 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/11)| [YouTube](https://youtu.be/ZTtJc_nhQro?si=FoWj25RuUcPGzqDn)|
+|2024.10.09| MonST3R, Depth Pro, EVER, KISS-Matcher, Nano-PGO, ST-P3 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/12)| [YouTube](https://youtu.be/6XjZGPOmF40?si=h3WpdM2FBMWaVbos)|
+|2024.10.15| CLIP-Clique, FoundPose, Tesla CyberCab/Robovan, MEVIUS, WildFusion, 𝛼LiDAR |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/13)| [YouTube](https://youtu.be/RbpVLH6ckwc?si=0M6muWJn14dFKyll)|
 |2024.10.23| PROSAC, Efficient descriptors, PhD/professor hiring, UniTR, DSVT, BEVFusion, MaskBEV |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/14)| Not yet uploaded!|
