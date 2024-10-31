@@ -32,3 +32,4 @@ We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@Spa
 |2024.10.09| MonST3R, Depth Pro, EVER, KISS-Matcher, Nano-PGO, ST-P3 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/12)| [YouTube](https://youtu.be/6XjZGPOmF40?si=h3WpdM2FBMWaVbos)|
 |2024.10.15| CLIP-Clique, FoundPose, Tesla CyberCab/Robovan, MEVIUS, WildFusion, 𝛼LiDAR |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/13)| [YouTube](https://youtu.be/RbpVLH6ckwc?si=0M6muWJn14dFKyll)|
 |2024.10.23| PROSAC, Efficient descriptors, PhD/professor hiring, UniTR, DSVT, BEVFusion, MaskBEV |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/14)| Not yet uploaded!|
+|2024.10.30| Vision-Language Model (VLM), Large Spatial Model, PLGS, Niantic Scaniverse |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/15)| Not yet uploaded!|
