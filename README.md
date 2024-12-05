@@ -31,10 +31,10 @@ We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@Spa
 |2024.10.01| MASt3R-SfM, Hyperion, latentSplat, RL meets VO, Aria dataset, NVIDIA GPU overview part 2 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/11)| [YouTube](https://youtu.be/ZTtJc_nhQro?si=FoWj25RuUcPGzqDn)|
 |2024.10.09| MonST3R, Depth Pro, EVER, KISS-Matcher, Nano-PGO, ST-P3 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/12)| [YouTube](https://youtu.be/6XjZGPOmF40?si=h3WpdM2FBMWaVbos)|
 |2024.10.15| CLIP-Clique, FoundPose, Tesla CyberCab/Robovan, MEVIUS, WildFusion, 𝛼LiDAR |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/13)| [YouTube](https://youtu.be/RbpVLH6ckwc?si=0M6muWJn14dFKyll)|
-|2024.10.23| PROSAC, Efficient descriptors, PhD/professor hiring, UniTR, DSVT, BEVFusion, MaskBEV |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/14)| Not yet uploaded!|
-|2024.10.30| Vision-Language Model (VLM), Large Spatial Model, PLGS, Niantic Scaniverse |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/15)| Not yet uploaded!|
-|2024.11.06| MAC-VO, KISS-Matcher, PyTorch Mobile, Metal API, Neural fields in robotics, Visual SLAM roadmap |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/16)| Not yet uploaded!|
-|2024.11.13| CoVLA, Accelerated image processing for VSLAM, 2024 3D object & view generation overview |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/17)| Not yet uploaded!|
-|2024.11.20| SLAM Handbook, Oxford Spires dataset, llava-o1, llama-mesh, Figure-02 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/18)| Not yet uploaded!|
-|2024.11.27| MAGiC-SLAM, DROID-Splat, Splat-AD, OVO-SLAM, YOLO-cpp, ALIKED-cpp |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/19)| Not yet uploaded!|
+|2024.10.23| PROSAC, Efficient descriptors, PhD/professor hiring, UniTR, DSVT, BEVFusion, MaskBEV |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/14)| [YouTube](https://youtu.be/pkiOuSHlIWw?si=cmMDz0_IboiMHZRn)| 
+|2024.10.30| Vision-Language Model (VLM), Large Spatial Model, PLGS, Niantic Scaniverse |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/15)| [YouTube](https://youtu.be/8VwFxTfgpxk?si=i38h8Nh52_0ZtyFm)
+|2024.11.06| MAC-VO, KISS-Matcher, PyTorch Mobile, Metal API, Neural fields in robotics, Visual SLAM roadmap |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/16)| [YouTube](https://youtu.be/x5c6wS6ID2M?si=LulbiZsAyNrQ9AlH)
+|2024.11.13| CoVLA, Accelerated image processing for VSLAM, 2024 3D object & view generation overview |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/17)| [YouTube](https://youtu.be/1C76hyMirmQ?si=he4Ke1cLe9VXLGTM)
+|2024.11.20| SLAM Handbook, Oxford Spires dataset, llava-o1, llama-mesh, Figure-02 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/18)| [YouTube](https://youtu.be/76HkebJ9aSc?si=danO1n0Wi5tKatQE)
+|2024.11.27| MAGiC-SLAM, DROID-Splat, Splat-AD, OVO-SLAM, YOLO-cpp, ALIKED-cpp |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/19)| Not yet uploade! |
 |2024.12.04| L3DG, IG-SLAM, ULSR-GS, ROVER, World Labs demo, MVD2, FastSR-NeRF, Zero-to-Hero |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/20)| Not yet uploaded!|
