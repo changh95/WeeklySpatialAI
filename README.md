@@ -44,7 +44,7 @@ We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@Spa
 |2025.01.22| NVIDIA NIM, Cosmos, new Hesai/Robosense LiDAR, MatchAnything, HF smolagents, DeepSeek-R1 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/20)| [YouTube](https://youtu.be/m9aV90PEyB0) |
 |2025.02.05| Pi0, AnyTeleop, Paper list for Object SLAM / Semantic SLAM / SLAM with scene graph representation |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/20)| [YouTube](https://youtu.be/wjucr9R48OQ) |
 
-## Contributors 😃
+## Our wonderful contributors 😃
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
