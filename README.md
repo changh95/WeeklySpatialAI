@@ -43,3 +43,18 @@ We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@Spa
 |2025.01.08| Gaussian Belief Propgation paper, NVIDIA 50xx GPU, Open X-embodiment, DROID, Genesis, Robogen, Foundation model survey |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/20)| [YouTube](https://youtu.be/hjKomzqTX4o) |
 |2025.01.22| NVIDIA NIM, Cosmos, new Hesai/Robosense LiDAR, MatchAnything, HF smolagents, DeepSeek-R1 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/20)| [YouTube](https://youtu.be/m9aV90PEyB0) |
 |2025.02.05| Pi0, AnyTeleop, Paper list for Object SLAM / Semantic SLAM / SLAM with scene graph representation |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/20)| [YouTube](https://youtu.be/wjucr9R48OQ) |
+
+## Contributors 😃
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/changh95"><img src="https://avatars.githubusercontent.com/u/39010111?v=4" width="100px;" alt=""/><br /><sub><b>Hyunggi Chang </b></sub></a><br /><a href="https://github.com/changh95" title="GitHub"> :octocat:</a></td>
+    <td align="center"><a href="https://github.com/james-joobs"><img src="https://avatars.githubusercontent.com/u/109335301?v=4" width="100px;" alt=""/><br /><sub><b>Hyunwoo Joo </b></sub></a><br /><a href="https://github.com/james-joobs" title="GitHub"> :octocat:</a></td>
+    <td align="center"><a href="https://github.com/U-AMC"><img src="https://avatars.githubusercontent.com/u/43529281?v=4" width="100px;" alt=""/><br /><sub><b>Hyunggi Chang </b></sub></a><br /><a href="https://github.com/U-AMC" title="GitHub"> :octocat:</a></td>
+      <td align="center"><a href="https://github.com/jy6757"><img src="https://avatars.githubusercontent.com/u/143304578?v=4" width="100px;" alt=""/><br /><sub><b>Jiyeon Lim </b></sub></a><br /><a href="https://github.com/jy6757" title="GitHub"> :octocat:</a></td>
+    <td align="center"><a href="https://github.com/chae2chae"><img src="https://avatars.githubusercontent.com/u/129859338?v=4" width="100px;" alt=""/><br /><sub><b>Chaeyoung Lee </b></sub></a><br /><a href="https://github.com/chae2chae" title="GitHub"> :octocat:</a></td>
+  </tr>
+</table>
