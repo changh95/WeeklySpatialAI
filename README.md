@@ -48,28 +48,28 @@ We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@Spa
 |2025.01.29| Break! | Break!| Break!|
 |2025.02.05| Pi0, AnyTeleop, Paper list for Object SLAM / Semantic SLAM / SLAM with scene graph representation |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/25)| [YouTube](https://youtu.be/wjucr9R48OQ) |
 |2025.01.12| Break! | Break!| Break!|
-|2025.02.19| Latent radiance field, robust autonomy from self-play, COLMAP-free 3DGS, LightGaussian, Compact 3DGS |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/26)| |
-|2025.02.26| MASt3r-SLAM, CUT3R, PointMamba, Human demonstration data, 3D Gaussian Splatting overview |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/27)| |
-|2025.03.05| SfM survey, Embodied AI simulator survey, PINGS, ESAM, Hier-SLAM++, S-Graphs 2.0, Fast3r |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/28)| |
-|2025.03.12| CURB-OSG, GigaSLAM, QLIO, Hennessy & Patterson, 딥러닝 & SLAM 강의 추천 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/29)| |
-|2025.03.19| KISS-SLAM, NVIDIA Spark, RoboSense E1R review, VGGT, RelationField, CUDA study |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/30)| |
-|2025.03.26| MS Cooperative vector, Map-free visual localization, CoCreatAR, HOMIE, low-cost manipulation |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/31)| |
-|2025.04.09| Figure AI 투어, Tesla 투어, Llama 4, LLM + JSON, GIL in Python |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/32)| |
-|2025.04.16| Tenstorrent Blackhole, SKiD-SLAM, 4D radar review |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/33)| |
-|2025.04.23| EDGS, RoMa |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/34)| |
-|2025.04.30| Qwen3, LiteGS, GenZ-ICP improved, MambaGlue, OpenLiDARMap |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/35)| |
-|2025.05.07| NVIDIA/AMD/Google/Furiosa GPU NPU TPU 리뷰, Differentiable rendering 리뷰 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/36)| |
-|2025.05.15| SceneScript, GLIM-CPU, Google's 3D generation, PyRoki, VINS-Multi, ForceMimic |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/37)| |
-|2025.05.28| VGGT-SLAM, ASHiTA, 3DGUT, CLAMP, XLeRobot |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/38)| |
-|2025.06.04| E3D-Bench, On-the-fly-reconstruction 3D Gaussian Splatting |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/39)| |
-|2025.06.11| FreeTimeGS, PartCrafter, SuperRANSAC, 4DGT, STORM, LocoTouch, SuperLoc |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/40)| |
-|2025.06.18| UFM, Pow3r, OpenGS-SLAM, DGN |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/41)| |
-|2025.06.25| 3D-GRUT, On-the-Fly-NVS, XFeat, VLMgineer, IMLE Policy |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/42)| |
-|2025.07.09| PanoGS, SpatialTrackerV2, LiteReality, WildGS-SLAM, HI-SLAM2, MASt3r-SLAM, MAGiC-SLAM, MNE-SLAM |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/43)| |
-|2025.07.16| PRoPE, VGGT-Long, Pangu Ultra MoE, GPU/NPU Simulator, WorldVLA |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/44)| |
-|2025.07.23| Claude code, Qwen3-Coder, Gemma3n, EXAONE 4.0, RL math, OpenAI에서 일한 경험 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/45)| |
-|2025.07.30| Feed-forward 3D recon survey, ThinkAct, ROMAN, UA-MPC, TurboClique |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/46)| |
-|2025.08.06| Google Genie3, OpenAI gpt-oss, Ollama Turbo, Anthropic Claude Opus-4.1 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/47)| |
+|2025.02.19| Latent radiance field, robust autonomy from self-play, COLMAP-free 3DGS, LightGaussian, Compact 3DGS |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/26)| [YouTube](https://www.youtube.com/watch?v=YakL5eFvARY)|
+|2025.02.26| MASt3r-SLAM, CUT3R, PointMamba, Human demonstration data, 3D Gaussian Splatting overview |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/27)| [YouTube](https://www.youtube.com/watch?v=YFq3yMsERWI)|
+|2025.03.05| SfM survey, Embodied AI simulator survey, PINGS, ESAM, Hier-SLAM++, S-Graphs 2.0, Fast3r |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/28)| [YouTube](https://youtu.be/TJMmPrAIC84?si=kP9frnmZ4pLKYnKc) |
+|2025.03.12| CURB-OSG, GigaSLAM, QLIO, Hennessy & Patterson, 딥러닝 & SLAM 강의 추천 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/29)| [YouTube](https://www.youtube.com/watch?v=2F3voDCiF2k)|
+|2025.03.19| KISS-SLAM, NVIDIA Spark, RoboSense E1R review, VGGT, RelationField, CUDA study |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/30)| [YouTube](https://www.youtube.com/watch?v=lYpOOG3l7u4)|
+|2025.03.26| MS Cooperative vector, Map-free visual localization, CoCreatAR, HOMIE, low-cost manipulation |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/31)| [YouTube](https://www.youtube.com/watch?v=J00xVp7C4FA)|
+|2025.04.09| Figure AI 투어, Tesla 투어, Llama 4, LLM + JSON, GIL in Python |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/32)| [YouTube](https://www.youtube.com/watch?v=rwQATGq2Z4k)|
+|2025.04.16| Tenstorrent Blackhole, SKiD-SLAM, 4D radar review |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/33)| [YouTube](https://www.youtube.com/watch?v=GSvK99HHt_4)|
+|2025.04.23| EDGS, RoMa |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/34)| [YouTube](https://www.youtube.com/watch?v=RJi4yTu_PcU)|
+|2025.04.30| Qwen3, LiteGS, GenZ-ICP improved, MambaGlue, OpenLiDARMap |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/35)| [YouTube](https://www.youtube.com/watch?v=TgeMjnDHtfI)|
+|2025.05.07| NVIDIA/AMD/Google/Furiosa GPU NPU TPU 리뷰, Differentiable rendering 리뷰 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/36)| [YouTube](https://www.youtube.com/watch?v=Z1Q3t-Mgn5U)|
+|2025.05.15| SceneScript, GLIM-CPU, Google's 3D generation, PyRoki, VINS-Multi, ForceMimic |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/37)| [YouTube](https://www.youtube.com/watch?v=ayQXDSy2j5k)|
+|2025.05.28| VGGT-SLAM, ASHiTA, 3DGUT, CLAMP, XLeRobot |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/38)| [YouTube](https://www.youtube.com/watch?v=DLNzV-Z42Lc)|
+|2025.06.04| E3D-Bench, On-the-fly-reconstruction 3D Gaussian Splatting |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/39)| [YouTube](https://www.youtube.com/watch?v=pMSNRaNFyb8)|
+|2025.06.11| FreeTimeGS, PartCrafter, SuperRANSAC, 4DGT, STORM, LocoTouch, SuperLoc |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/40)| [YouTube](https://www.youtube.com/watch?v=-JGBxXqHqmE)|
+|2025.06.18| UFM, Pow3r, OpenGS-SLAM, DGN |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/41)| [YouTube](https://www.youtube.com/watch?v=jViCwEvJ8UI)|
+|2025.06.25| 3D-GRUT, On-the-Fly-NVS, XFeat, VLMgineer, IMLE Policy |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/42)| [YouTube](https://www.youtube.com/watch?v=mbA7FiJYwaI)|
+|2025.07.09| PanoGS, SpatialTrackerV2, LiteReality, WildGS-SLAM, HI-SLAM2, MASt3r-SLAM, MAGiC-SLAM, MNE-SLAM |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/43)| [YouTube](https://www.youtube.com/watch?v=MYATKJHADtg)|
+|2025.07.16| PRoPE, VGGT-Long, Pangu Ultra MoE, GPU/NPU Simulator, WorldVLA |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/44)| [YouTube](https://youtu.be/l48QRQioBAE?si=C_frqOBVEDUd3miA) |
+|2025.07.23| Claude code, Qwen3-Coder, Gemma3n, EXAONE 4.0, RL math, OpenAI에서 일한 경험 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/45)| [YouTube](https://www.youtube.com/watch?v=HK7TQcJB2z0)|
+|2025.07.30| Feed-forward 3D recon survey, ThinkAct, ROMAN, UA-MPC, TurboClique |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/46)| — |
+|2025.08.06| Google Genie3, OpenAI gpt-oss, Ollama Turbo, Anthropic Claude Opus-4.1 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/47)| — |
 
 ## Our wonderful contributors 😃
 
