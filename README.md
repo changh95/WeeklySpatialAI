@@ -40,9 +40,14 @@ We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@Spa
 |2024.12.04| L3DG, IG-SLAM, ULSR-GS, ROVER, World Labs demo, MVD2, FastSR-NeRF, Zero-to-Hero |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/20)| [YouTube](https://youtu.be/3zzVfLuvUNU) |
 |2024.12.11| RL tutorial, NaVILA, GS-LIVM, Bonsai, MEVIUS, DiTer++, MOANA dataset, MAN TruckScenes |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/21)| [YouTube](https://youtu.be/Y0UjnuuzlQY) |
 |2024.12.18| MASt3R-SLAM, DiTER++, CAT4D, pixelSplat, LiveScene, Talking to DINO, MV-DUSt3R, Diorama, MegaSaM, NaVILA |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/22)| [YouTube](https://youtu.be/F3o9R2UdG6Q) |
+|2024.12.25| Break! | Break!| Break!|
+|2025.01.01| Break! | Break!| Break!|
 |2025.01.08| Gaussian Belief Propgation paper, NVIDIA 50xx GPU, Open X-embodiment, DROID, Genesis, Robogen, Foundation model survey |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/23)| [YouTube](https://youtu.be/hjKomzqTX4o) |
+|2025.01.15| Break! | Break!| Break!|
 |2025.01.22| NVIDIA NIM, Cosmos, new Hesai/Robosense LiDAR, MatchAnything, HF smolagents, DeepSeek-R1 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/24)| [YouTube](https://youtu.be/m9aV90PEyB0) |
+|2025.01.29| Break! | Break!| Break!|
 |2025.02.05| Pi0, AnyTeleop, Paper list for Object SLAM / Semantic SLAM / SLAM with scene graph representation |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/25)| [YouTube](https://youtu.be/wjucr9R48OQ) |
+|2025.01.12| Break! | Break!| Break!|
 |2025.02.19| Latent radiance field, robust autonomy from self-play, COLMAP-free 3DGS, LightGaussian, Compact 3DGS |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/26)| |
 |2025.02.26| MASt3r-SLAM, CUT3R, PointMamba, Human demonstration data, 3D Gaussian Splatting overview |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/27)| |
 |2025.03.05| SfM survey, Embodied AI simulator survey, PINGS, ESAM, Hier-SLAM++, S-Graphs 2.0, Fast3r |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/28)| |
