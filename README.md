@@ -12,9 +12,17 @@ Information exchange between experts in Spatial AI field from industry to academ
 
 ## Meeting history
 
-미팅 영상은 [YouTube 채널](https://www.youtube.com/@SpatialAIKR)에, 미팅 로그는 [Issue 페이지](https://github.com/changh95/WeeklySpatialAI/issues)에 남깁니다.
+미팅 영상은 [YouTube 채널](https://www.youtube.com/@slam_slam_/)에, 미팅 로그는 [Issue 페이지](https://github.com/changh95/WeeklySpatialAI/issues)에 남깁니다.
 
-We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@SpatialAIKR), and our meeting logs on the [issue page](https://github.com/changh95/WeeklySpatialAI/issues).
+We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@slam_slam_/), and our meeting logs on the [issue page](https://github.com/changh95/WeeklySpatialAI/issues).
+
+아래 이미지를 클릭하시면 재생목록으로 이동합니다.
+
+Click the image below, and you'll be directed to the YouTube playlist.
+
+<a href="https://youtube.com/playlist?list=PLQ_yig6ETZrvESh4Vl6MxuhEgtl_cW9M5&si=gPEE7bA-QsOWPHVj">
+  <img width="341" height="273" alt="image" src="https://github.com/user-attachments/assets/cc1d0368-efd5-41e4-bc9f-e87af4fa8287" />
+</a>
 
 |Date|Topics|Link|Video|
 |------|---|---|---|
