@@ -24,9 +24,7 @@ We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@Spa
 |2024.08.14| DeepMind table tennis robot, FLUX, CppCon, MoAI, CoLLaVO, Hydra-MDP, NPU overview |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/6)| [YouTube](https://youtu.be/MDvD_JEv9SY?si=wCYA2n5kpxQHx6Gn)|
 |2024.08.21| Tenstorrent NPU, ROS LLM agent, Industrial 3D scanner review, Skydio X10 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/7)| [YouTube](https://youtu.be/Pi-DYBK3bxs?si=b8tK8BkpSvUXir2A)|
 |2024.08.28| Sapiens, GaussianOcc, FAST-LIVO2, SOLiD-ALOAM, Berkeley Humanoid, NavGPT-2 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/8)| [YouTube](https://youtu.be/gaRviiuPdGI?si=fLppi_C_v_ouU-Ix)|
-|2024.09.04| Break! | Break!| Break! |
 |2024.09.11| GenWarp, ReconX, OmniRe, FIT3D, NVIDIA GPU Overview |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/9)| [YouTube](https://youtu.be/Rr45MAeHJz0?si=GyfyW_m92NpRUynt)|
-|2024.09.18| Break! | Break!| Break!|
 |2024.09.25| World models (Wayve, 1X, World Labs), MaskBEV, RockChip micro-NPU, M2-Mapping |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/10)| [YouTube](https://youtu.be/bX2iCM1sJ1g?si=yx2Su5E3r_9sTaoh)|
 |2024.10.01| MASt3R-SfM, Hyperion, latentSplat, RL meets VO, Aria dataset, NVIDIA GPU overview part 2 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/11)| [YouTube](https://youtu.be/ZTtJc_nhQro?si=FoWj25RuUcPGzqDn)|
 |2024.10.09| MonST3R, Depth Pro, EVER, KISS-Matcher, Nano-PGO, ST-P3 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/12)| [YouTube](https://youtu.be/6XjZGPOmF40?si=h3WpdM2FBMWaVbos)|
@@ -40,14 +38,9 @@ We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@Spa
 |2024.12.04| L3DG, IG-SLAM, ULSR-GS, ROVER, World Labs demo, MVD2, FastSR-NeRF, Zero-to-Hero |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/20)| [YouTube](https://youtu.be/3zzVfLuvUNU) |
 |2024.12.11| RL tutorial, NaVILA, GS-LIVM, Bonsai, MEVIUS, DiTer++, MOANA dataset, MAN TruckScenes |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/21)| [YouTube](https://youtu.be/Y0UjnuuzlQY) |
 |2024.12.18| MASt3R-SLAM, DiTER++, CAT4D, pixelSplat, LiveScene, Talking to DINO, MV-DUSt3R, Diorama, MegaSaM, NaVILA |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/22)| [YouTube](https://youtu.be/F3o9R2UdG6Q) |
-|2024.12.25| Break! | Break!| Break!|
-|2025.01.01| Break! | Break!| Break!|
 |2025.01.08| Gaussian Belief Propgation paper, NVIDIA 50xx GPU, Open X-embodiment, DROID, Genesis, Robogen, Foundation model survey |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/23)| [YouTube](https://youtu.be/hjKomzqTX4o) |
-|2025.01.15| Break! | Break!| Break!|
 |2025.01.22| NVIDIA NIM, Cosmos, new Hesai/Robosense LiDAR, MatchAnything, HF smolagents, DeepSeek-R1 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/24)| [YouTube](https://youtu.be/m9aV90PEyB0) |
-|2025.01.29| Break! | Break!| Break!|
 |2025.02.05| Pi0, AnyTeleop, Paper list for Object SLAM / Semantic SLAM / SLAM with scene graph representation |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/25)| [YouTube](https://youtu.be/wjucr9R48OQ) |
-|2025.01.12| Break! | Break!| Break!|
 |2025.02.19| Latent radiance field, robust autonomy from self-play, COLMAP-free 3DGS, LightGaussian, Compact 3DGS |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/26)| [YouTube](https://www.youtube.com/watch?v=YakL5eFvARY)|
 |2025.02.26| MASt3r-SLAM, CUT3R, PointMamba, Human demonstration data, 3D Gaussian Splatting overview |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/27)| [YouTube](https://www.youtube.com/watch?v=YFq3yMsERWI)|
 |2025.03.05| SfM survey, Embodied AI simulator survey, PINGS, ESAM, Hier-SLAM++, S-Graphs 2.0, Fast3r |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/28)| [YouTube](https://youtu.be/TJMmPrAIC84?si=kP9frnmZ4pLKYnKc) |
@@ -68,8 +61,8 @@ We post our meeting videos on our [YouTube Channel](https://www.youtube.com/@Spa
 |2025.07.09| PanoGS, SpatialTrackerV2, LiteReality, WildGS-SLAM, HI-SLAM2, MASt3r-SLAM, MAGiC-SLAM, MNE-SLAM |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/43)| [YouTube](https://www.youtube.com/watch?v=MYATKJHADtg)|
 |2025.07.16| PRoPE, VGGT-Long, Pangu Ultra MoE, GPU/NPU Simulator, WorldVLA |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/44)| [YouTube](https://youtu.be/l48QRQioBAE?si=C_frqOBVEDUd3miA) |
 |2025.07.23| Claude code, Qwen3-Coder, Gemma3n, EXAONE 4.0, RL math, OpenAI에서 일한 경험 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/45)| [YouTube](https://www.youtube.com/watch?v=HK7TQcJB2z0)|
-|2025.07.30| Feed-forward 3D recon survey, ThinkAct, ROMAN, UA-MPC, TurboClique |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/46)| — |
-|2025.08.06| Google Genie3, OpenAI gpt-oss, Ollama Turbo, Anthropic Claude Opus-4.1 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/47)| — |
+|2025.07.30| Feed-forward 3D recon survey, ThinkAct, ROMAN, UA-MPC, TurboClique |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/46)| [YouTube](https://youtu.be/LhLPtGk1PjA) |
+|2025.08.06| Google Genie3, OpenAI gpt-oss, Ollama Turbo, Anthropic Claude Opus-4.1 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/47)| [YouTube](https://youtu.be/zISMxNVb7dc) |
 
 ## Our wonderful contributors 😃
 
