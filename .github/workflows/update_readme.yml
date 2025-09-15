@@ -123,7 +123,7 @@ jobs:
                   issue_link = f"[meeting log]({entry['link']})"
                   if not any(issue_link in row for row in existing_rows):
                       new_row = f"|{entry['date']}| {entry['topics']} |{issue_link}| |"
-                      existing_rows.insert(0, new_row)  # Add at the beginning
+                      existing_rows.append(new_row)  # Add at the end
                       added_count += 1
                       print(f"Added new entry: {entry['date']} - {entry['topics']}")
               
@@ -153,7 +153,12 @@ jobs:
           
           new_entries = []
           for issue in recent_issues:
-              date, topics = parse_issue_title(issue['title'])
+              # Skip pull requests and issues before #45
+              if 'pull_request' in issue:
+                  continue
+                  
+              issue_number = issue['number']
+              date, topics = parse_issue_title(issue['title'], issue_number)
               if date and topics:
                   new_entries.append({
                       'date': date,
@@ -161,7 +166,8 @@ jobs:
                       'link': issue['html_url']
                   })
               else:
-                  print(f"Could not parse issue title: {issue['title']}")
+                  if issue_number >= 45:
+                      print(f"Could not parse issue title: {issue['title']}")
           
           if new_entries:
               if update_readme(new_entries):
