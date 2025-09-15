@@ -26,6 +26,7 @@ Click the image below, and you'll be directed to the YouTube playlist.
 
 |Date|Topics|Link|Video|
 |------|---|---|---|
+|2025.08.27| WALL-OSS, ORB-SLAM-Python, Robix, TunedLens, Gemma Scope, Logit Prisms, Manim, TransformerLens, SAELens |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/50)| |
 |2024.07.24| FutureMapping, GLIM, DeepSLAM, Co-RAL, SOLiD, ETPNav, GeFF |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/1)| [YouTube](https://youtu.be/3QUdewSpPr8?si=qKQ9an-odCd8EvoU)|
 |2024.07.31| MASt3R, GLOMAP, ACE 0, VGGSfM, SAM v2, fVDB, Clio, MeshAnything, RT-2 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/4)| [YouTube](https://youtu.be/dH_LWuV0o4M?si=s6zG8TGcdM1PFQCI)|
 |2024.08.07| Figure 02, InstantSplat, BADROBOT, COIN-LIO, Universal Manipulation Interface |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/5)| [YouTube](https://youtu.be/tJ5_WKULmVQ?si=Bx6ddkifa_KQKWKi)|
@@ -36,8 +37,7 @@ Click the image below, and you'll be directed to the YouTube playlist.
 |2024.09.25| World models (Wayve, 1X, World Labs), MaskBEV, RockChip micro-NPU, M2-Mapping |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/10)| [YouTube](https://youtu.be/bX2iCM1sJ1g?si=yx2Su5E3r_9sTaoh)|
 |2024.10.01| MASt3R-SfM, Hyperion, latentSplat, RL meets VO, Aria dataset, NVIDIA GPU overview part 2 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/11)| [YouTube](https://youtu.be/ZTtJc_nhQro?si=FoWj25RuUcPGzqDn)|
 |2024.10.09| MonST3R, Depth Pro, EVER, KISS-Matcher, Nano-PGO, ST-P3 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/12)| [YouTube](https://youtu.be/6XjZGPOmF40?si=h3WpdM2FBMWaVbos)|
-|2024.10.15| CLIP-Clique, FoundPose, Tesla CyberCab/Robovan, MEVIUS, WildFusion, 𝛼LiDAR |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/13)| [YouTube](https://youtu.be/RbpVLH6ckwc?si=0M6muWJn14dFKyll)|
-|2024.10.23| PROSAC, Efficient descriptors, PhD/professor hiring, UniTR, DSVT, BEVFusion, MaskBEV |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/14)| [YouTube](https://youtu.be/pkiOuSHlIWw?si=cmMDz0_IboiMHZRn)| 
+|2024.10.15| CLIP-Clique, FoundPose, Tesla CyberCab/Robovan, MEVIUS, WildFusion, 𝛼LiDAR |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/13)| [YouTube](https://youtu.be/RbpVLH6ckwc?si=0M6muWJn14dFKyll)||2024.10.23| PROSAC, Efficient descriptors, PhD/professor hiring, UniTR, DSVT, BEVFusion, MaskBEV |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/14)| [YouTube](https://youtu.be/pkiOuSHlIWw?si=cmMDz0_IboiMHZRn)| 
 |2024.10.30| Vision-Language Model (VLM), Large Spatial Model, PLGS, Niantic Scaniverse |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/15)| [YouTube](https://youtu.be/8VwFxTfgpxk?si=i38h8Nh52_0ZtyFm)|
 |2024.11.06| MAC-VO, KISS-Matcher, PyTorch Mobile, Metal API, Neural fields in robotics, Visual SLAM roadmap |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/16)| [YouTube](https://youtu.be/x5c6wS6ID2M?si=LulbiZsAyNrQ9AlH)|
 |2024.11.13| CoVLA, Accelerated image processing for VSLAM, 2024 3D object & view generation overview |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/17)| [YouTube](https://youtu.be/1C76hyMirmQ?si=he4Ke1cLe9VXLGTM)|
