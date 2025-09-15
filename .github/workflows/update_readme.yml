@@ -101,8 +101,8 @@ jobs:
               with open('README.md', 'r') as f:
                   content = f.read()
               
-              # Find the table
-              table_pattern = r'(\|Date\|Topics\|Link\|Video\|\n\|[-]+\|[-]+\|[-]+\|[-]+\|\n(?:\|[^\n]+\|\n)*)'
+              # Find the table - match table with proper row endings
+              table_pattern = r'(\|Date\|Topics\|Link\|Video\|\n\|[-]+\|[-]+\|[-]+\|[-]+\|(?:\n\|[^\n]+\|)*)'
               match = re.search(table_pattern, content)
               
               if not match:
@@ -110,20 +110,23 @@ jobs:
                   return False
               
               table_content = match.group(1)
-              table_lines = table_content.strip().split('\n')
               
-              # Insert new entries after the header (first 2 lines)
-              header_lines = table_lines[:2]
-              existing_rows = table_lines[2:]
+              # Parse existing entries to check for duplicates and maintain order
+              existing_entries = []
+              lines = table_content.strip().split('\n')
+              for line in lines[2:]:  # Skip header lines
+                  if line.strip() and line.startswith('|'):
+                      existing_entries.append(line)
               
               # Check for duplicates and add new entries
               added_count = 0
+              new_rows = []
               for entry in new_entries:
                   # Check if this issue is already in the table
                   issue_link = f"[meeting log]({entry['link']})"
-                  if not any(issue_link in row for row in existing_rows):
+                  if not any(issue_link in row for row in existing_entries):
                       new_row = f"|{entry['date']}| {entry['topics']} |{issue_link}| |"
-                      existing_rows.append(new_row)  # Add at the end
+                      new_rows.append(new_row)
                       added_count += 1
                       print(f"Added new entry: {entry['date']} - {entry['topics']}")
               
@@ -131,8 +134,22 @@ jobs:
                   print("All issues already exist in the table")
                   return False
               
-              # Rebuild the table
-              new_table = '\n'.join(header_lines + existing_rows)
+              # Combine all entries and sort by date
+              all_rows = existing_entries + new_rows
+              
+              # Sort entries by date (assuming YYYY.MM.DD format)
+              def get_date_key(row):
+                  date_match = re.search(r'\|(\d{4}\.\d{2}\.\d{2})\|', row)
+                  if date_match:
+                      return date_match.group(1)
+                  return '9999.99.99'  # Put malformed rows at the end
+              
+              all_rows.sort(key=get_date_key)
+              
+              # Rebuild the table with proper formatting
+              header = "|Date|Topics|Link|Video|\n|------|---|---|---|"
+              sorted_rows = '\n'.join(all_rows)
+              new_table = f"{header}\n{sorted_rows}"
               
               # Replace old table with new table
               new_content = content.replace(table_content, new_table)
