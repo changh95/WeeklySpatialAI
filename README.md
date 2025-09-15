@@ -26,7 +26,6 @@ Click the image below, and you'll be directed to the YouTube playlist.
 
 |Date|Topics|Link|Video|
 |------|---|---|---|
-|2025.08.27| WALL-OSS, ORB-SLAM-Python, Robix, TunedLens, Gemma Scope, Logit Prisms, Manim, TransformerLens, SAELens |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/50)| |
 |2024.07.24| FutureMapping, GLIM, DeepSLAM, Co-RAL, SOLiD, ETPNav, GeFF |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/1)| [YouTube](https://youtu.be/3QUdewSpPr8?si=qKQ9an-odCd8EvoU)|
 |2024.07.31| MASt3R, GLOMAP, ACE 0, VGGSfM, SAM v2, fVDB, Clio, MeshAnything, RT-2 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/4)| [YouTube](https://youtu.be/dH_LWuV0o4M?si=s6zG8TGcdM1PFQCI)|
 |2024.08.07| Figure 02, InstantSplat, BADROBOT, COIN-LIO, Universal Manipulation Interface |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/5)| [YouTube](https://youtu.be/tJ5_WKULmVQ?si=Bx6ddkifa_KQKWKi)|
