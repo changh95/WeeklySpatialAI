@@ -70,7 +70,9 @@ Click the image below, and you'll be directed to the YouTube playlist.
 |2025.07.23| Claude code, Qwen3-Coder, Gemma3n, EXAONE 4.0, RL math, OpenAI에서 일한 경험 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/45)| [YouTube](https://www.youtube.com/watch?v=HK7TQcJB2z0)|
 |2025.07.30| Feed-forward 3D recon survey, ThinkAct, ROMAN, UA-MPC, TurboClique |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/46)| [YouTube](https://youtu.be/LhLPtGk1PjA) |
 |2025.08.06| Google Genie3, OpenAI gpt-oss, Ollama Turbo, Anthropic Claude Opus-4.1 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/47)| [YouTube](https://youtu.be/zISMxNVb7dc) |
-|2025.08.27| WALL-OSS, ORB-SLAM-Python, Robix, TunedLens, Gemma Scope, Logit Prisms, Manim, TransformerLens, SAELens |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/50)| |
+|2025.08.20| Context as Memory, GameFactory, ReMEmbR, Anything 시리즈 리뷰, ECoT |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/48)| [YouTube](https://youtu.be/9nSInpXR0tY?si=NS86ZCjc-m3xEuMF) |
+|2025.08.27| Transformer-based SLAM, MineCraft ROS2 mod, Orin vs Thor benchmark, World Models in Autonomous Driving |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/49)| [YouTube](https://youtu.be/M2j4BzS7pDk?si=8kelMwQA7kLBNQvU) |
+|2025.09.10| WALL-OSS, ORB-SLAM-Python, Robix, TunedLens, Gemma Scope, Logit Prisms, Manim, TransformerLens, SAELens |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/50)| [YouTube](https://youtu.be/GKCrY7VUp-Y?si=SrSQw6YS-8KEd67k) |
 
 ## Our wonderful contributors 😃
 
