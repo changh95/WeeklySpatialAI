@@ -1,0 +1,188 @@
+name: Update README on New Issues
+
+on:
+  schedule:
+    # Run every Thursday at 00:00 UTC
+    - cron: '0 0 * * 4'
+  issues:
+    types: [opened]
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: read
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Check for new issues and update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - <<'EOF'
+          import os
+          import re
+          import json
+          import subprocess
+          from datetime import datetime, timedelta
+          
+          # GitHub API setup
+          github_token = os.environ['GITHUB_TOKEN']
+          repo = os.environ['GITHUB_REPOSITORY']
+          
+          # Function to get issues from the last week
+          def get_recent_issues():
+              # Check if triggered by issue event
+              event_name = os.environ.get('GITHUB_EVENT_NAME')
+              
+              if event_name == 'issues':
+                  # Get the issue that triggered this workflow
+                  with open(os.environ['GITHUB_EVENT_PATH'], 'r') as f:
+                      event_data = json.load(f)
+                  issue = event_data.get('issue', {})
+                  if issue:
+                      return [issue]
+              else:
+                  # For scheduled runs, get issues from the last week
+                  one_week_ago = (datetime.now() - timedelta(days=7)).isoformat()
+                  cmd = f'''curl -s -H "Authorization: token {github_token}" \
+                           "https://api.github.com/repos/{repo}/issues?state=all&since={one_week_ago}&sort=created&direction=desc"'''
+                  result = subprocess.run(cmd, shell=True, capture_output=True, text=True)
+                  issues = json.loads(result.stdout)
+                  
+                  # Filter for issues created in the last week
+                  recent_issues = []
+                  for issue in issues:
+                      created_at = datetime.strptime(issue['created_at'], '%Y-%m-%dT%H:%M:%SZ')
+                      if created_at > datetime.now() - timedelta(days=7):
+                          recent_issues.append(issue)
+                  return recent_issues
+              
+              return []
+          
+          # Function to parse issue title
+          def parse_issue_title(title):
+              # Expected format: "2025.08.27 - #48 - WALL-OSS, ORB-SLAM-Python, Robix, ..."
+              pattern = r'^(\d{4}\.\d{2}\.\d{2})\s*-\s*#\d+\s*-\s*(.+)$'
+              match = re.match(pattern, title)
+              
+              if match:
+                  date_str = match.group(1)
+                  topics_str = match.group(2).strip()
+                  
+                  # Convert date format from 2025.08.27 to 2024.07.24 format
+                  date_parts = date_str.split('.')
+                  formatted_date = f"{date_parts[0]}.{date_parts[1]}.{date_parts[2]}"
+                  
+                  # Clean up topics (remove extra spaces)
+                  topics = ', '.join([t.strip() for t in topics_str.split(',')])
+                  
+                  return formatted_date, topics
+              return None, None
+          
+          # Function to update README
+          def update_readme(new_entries):
+              if not new_entries:
+                  print("No new issues to add to README")
+                  return False
+              
+              # Read current README
+              with open('README.md', 'r') as f:
+                  content = f.read()
+              
+              # Find the table
+              table_pattern = r'(\|Date\|Topics\|Link\|Video\|\n\|[-]+\|[-]+\|[-]+\|[-]+\|\n(?:\|[^\n]+\|\n)*)'
+              match = re.search(table_pattern, content)
+              
+              if not match:
+                  print("Could not find the table in README.md")
+                  return False
+              
+              table_content = match.group(1)
+              table_lines = table_content.strip().split('\n')
+              
+              # Insert new entries after the header (first 2 lines)
+              header_lines = table_lines[:2]
+              existing_rows = table_lines[2:]
+              
+              # Check for duplicates and add new entries
+              added_count = 0
+              for entry in new_entries:
+                  # Check if this issue is already in the table
+                  issue_link = f"[meeting log]({entry['link']})"
+                  if not any(issue_link in row for row in existing_rows):
+                      new_row = f"|{entry['date']}| {entry['topics']} |{issue_link}| |"
+                      existing_rows.insert(0, new_row)  # Add at the beginning
+                      added_count += 1
+                      print(f"Added new entry: {entry['date']} - {entry['topics']}")
+              
+              if added_count == 0:
+                  print("All issues already exist in the table")
+                  return False
+              
+              # Rebuild the table
+              new_table = '\n'.join(header_lines + existing_rows)
+              
+              # Replace old table with new table
+              new_content = content.replace(table_content, new_table)
+              
+              # Write updated README
+              with open('README.md', 'w') as f:
+                  f.write(new_content)
+              
+              print(f"Successfully added {added_count} new entries to README.md")
+              return True
+          
+          # Main execution
+          recent_issues = get_recent_issues()
+          
+          if not recent_issues:
+              print("No new issues found")
+              exit(0)
+          
+          new_entries = []
+          for issue in recent_issues:
+              date, topics = parse_issue_title(issue['title'])
+              if date and topics:
+                  new_entries.append({
+                      'date': date,
+                      'topics': topics,
+                      'link': issue['html_url']
+                  })
+              else:
+                  print(f"Could not parse issue title: {issue['title']}")
+          
+          if new_entries:
+              if update_readme(new_entries):
+                  print("README.md has been updated")
+              else:
+                  print("No updates needed for README.md")
+          else:
+              print("No valid issues to process")
+          EOF
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Check if there are changes
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add README.md
+            git commit -m "Update README.md with new issue information"
+            git push
+            echo "Changes pushed to repository"
+          fi
