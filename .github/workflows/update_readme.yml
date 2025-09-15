@@ -153,12 +153,11 @@ jobs:
           
           new_entries = []
           for issue in recent_issues:
-              # Skip pull requests and issues before #45
+              # Skip pull requests
               if 'pull_request' in issue:
                   continue
                   
-              issue_number = issue['number']
-              date, topics = parse_issue_title(issue['title'], issue_number)
+              date, topics = parse_issue_title(issue['title'])
               if date and topics:
                   new_entries.append({
                       'date': date,
@@ -166,7 +165,9 @@ jobs:
                       'link': issue['html_url']
                   })
               else:
-                  if issue_number >= 45:
+                  # Extract issue number from title to check if we should log
+                  issue_match = re.search(r'#(\d+)', issue['title'])
+                  if issue_match and int(issue_match.group(1)) >= 45:
                       print(f"Could not parse issue title: {issue['title']}")
           
           if new_entries:
