@@ -74,22 +74,23 @@ jobs:
           # Function to parse issue title
           def parse_issue_title(title):
               # Expected format: "2025.08.27 - #48 - WALL-OSS, ORB-SLAM-Python, Robix, ..."
-              pattern = r'^(\d{4}\.\d{2}\.\d{2})\s*-\s*#\d+\s*-\s*(.+)$'
+              # More strict pattern matching to ensure exact format
+              pattern = r'^(\d{4}\.\d{2}\.\d{2})\s*-\s*#(\d+)\s*-\s*(.+)$'
               match = re.match(pattern, title)
               
               if match:
                   date_str = match.group(1)
-                  topics_str = match.group(2).strip()
+                  issue_num = match.group(2)
+                  topics_str = match.group(3).strip()
                   
-                  # Convert date format from 2025.08.27 to 2024.07.24 format
-                  date_parts = date_str.split('.')
-                  formatted_date = f"{date_parts[0]}.{date_parts[1]}.{date_parts[2]}"
+                  # Keep date format as is (YYYY.MM.DD)
+                  formatted_date = date_str
                   
-                  # Clean up topics (remove extra spaces)
+                  # Clean up topics - preserve the comma-separated format
                   topics = ', '.join([t.strip() for t in topics_str.split(',')])
                   
-                  return formatted_date, topics
-              return None, None
+                  return formatted_date, topics, issue_num
+              return None, None, None
           
           # Function to update README
           def update_readme(new_entries):
@@ -174,18 +175,16 @@ jobs:
               if 'pull_request' in issue:
                   continue
                   
-              date, topics = parse_issue_title(issue['title'])
+              date, topics, issue_num = parse_issue_title(issue['title'])
               if date and topics:
                   new_entries.append({
                       'date': date,
                       'topics': topics,
                       'link': issue['html_url']
                   })
+                  print(f"Processing issue #{issue_num}: {date} - {topics}")
               else:
-                  # Extract issue number from title to check if we should log
-                  issue_match = re.search(r'#(\d+)', issue['title'])
-                  if issue_match and int(issue_match.group(1)) >= 45:
-                      print(f"Could not parse issue title: {issue['title']}")
+                  print(f"Issue '{issue['title']}' does not match expected format, skipping")
           
           if new_entries:
               if update_readme(new_entries):
