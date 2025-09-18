@@ -73,6 +73,7 @@ Click the image below, and you'll be directed to the YouTube playlist.
 |2025.08.20| Context as Memory, GameFactory, ReMEmbR, Anything 시리즈 리뷰, ECoT |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/48)| [YouTube](https://youtu.be/9nSInpXR0tY?si=NS86ZCjc-m3xEuMF) |
 |2025.08.27| Transformer-based SLAM, MineCraft ROS2 mod, Orin vs Thor benchmark, World Models in Autonomous Driving |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/49)| [YouTube](https://youtu.be/M2j4BzS7pDk?si=8kelMwQA7kLBNQvU) |
 |2025.09.10| WALL-OSS, ORB-SLAM-Python, Robix, TunedLens, Gemma Scope, Logit Prisms, Manim, TransformerLens, SAELens |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/50)| [YouTube](https://youtu.be/GKCrY7VUp-Y?si=SrSQw6YS-8KEd67k) |
+|2025.09.17| ViPE, Maps for Autonomous Driving survey, TeraSim-World |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/51)| |
 
 ## Our wonderful contributors 😃
 
