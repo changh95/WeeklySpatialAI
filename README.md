@@ -87,5 +87,7 @@ Click the image below, and you'll be directed to the YouTube playlist.
     <td align="center"><a href="https://github.com/U-AMC"><img src="https://avatars.githubusercontent.com/u/43529281?v=4" width="100px;" alt=""/><br /><sub><b>Juwon Kim </b></sub></a><br /><a href="https://github.com/U-AMC" title="GitHub"> :octocat:</a></td>
       <td align="center"><a href="https://github.com/jy6757"><img src="https://avatars.githubusercontent.com/u/143304578?v=4" width="100px;" alt=""/><br /><sub><b>Jiyeon Lim </b></sub></a><br /><a href="https://github.com/jy6757" title="GitHub"> :octocat:</a></td>
     <td align="center"><a href="https://github.com/chae2chae"><img src="https://avatars.githubusercontent.com/u/129859338?v=4" width="100px;" alt=""/><br /><sub><b>Chaeyoung Lee </b></sub></a><br /><a href="https://github.com/chae2chae" title="GitHub"> :octocat:</a></td>
+    <td align="center"><a href="https://github.com/SunandBean"><img src="https://avatars.githubusercontent.com/u/40445991?v=4" width="100px;" alt=""/><br /><sub><b>Sunbin Kim </b></sub></a><br /><a href="https://github.com/SunandBean" title="GitHub"> :octocat:</a></td>
+    <td align="center"><a href="https://github.com/blossominkyung"><img src="https://avatars.githubusercontent.com/u/70420825?v=4" width="100px;" alt=""/><br /><sub><b>Minkyung Lee </b></sub></a><br /><a href="https://github.com/blossominkyung" title="GitHub"> :octocat:</a></td>    
   </tr>
 </table>
