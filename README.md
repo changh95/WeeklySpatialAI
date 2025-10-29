@@ -75,6 +75,7 @@ Click the image below, and you'll be directed to the YouTube playlist.
 |2025.09.10| WALL-OSS, ORB-SLAM-Python, Robix, TunedLens, Gemma Scope, Logit Prisms, Manim, TransformerLens, SAELens |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/50)| [YouTube](https://youtu.be/GKCrY7VUp-Y?si=SrSQw6YS-8KEd67k) |
 |2025.09.17| ViPE, Maps for Autonomous Driving survey, TeraSim-World |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/51)| |
 |2025.09.24| MapAnything, GMT, Any2Track, Behavior foundation model, EchoScene, SG Aligner |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/52)| |
+|2025.10.15| OKVIS2-X, Open-YOLO 3D, CoT-VLA, π0.5, RND1, SuperDec |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/53) | |
 |2025.10.22| SLAM 강의, WorldVLA, SceneDINO, VoT, InstantSfM, SAM3 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/54)| |
 
 ## Our wonderful contributors 😃
