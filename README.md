@@ -79,6 +79,7 @@ Click the image below, and you'll be directed to the YouTube playlist.
 |2025.10.22| SLAM 강의, WorldVLA, SceneDINO, VoT, InstantSfM, SAM3 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/54)| |
 |2025.10.29| Unitree 탐방기, From Masks to Worlds: A Hitchhiker's Guide to World Models |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/55)| |
 |2025.11.05| GPU 26만장, Online-monocular-3DGS, ActiveSplat, Align3r |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/56)| |
+|2025.11.12| Vulkan shader, Human Characters to Humanoid, Egocentric-10K, NVIDIA AD dataset, LiteTracker |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/57)| |
 
 ## Our wonderful contributors 😃
 
