@@ -81,6 +81,7 @@ Click the image below, and you'll be directed to the YouTube playlist.
 |2025.11.05| GPU 26만장, Online-monocular-3DGS, ActiveSplat, Align3r |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/56)| |
 |2025.11.12| Vulkan shader, Human Characters to Humanoid, Egocentric-10K, NVIDIA AD dataset, LiteTracker |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/57)| |
 |2025.11.26| VLM review, SAM 3D, Nano Banana Pro, C++ rant |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/58)| |
+|2025.12.03| MASt3R-Fusion, EGG-Fusion, AMB3R, LEGS, D-NeRF, DreamerV3, ENACT, GigaBrain-0 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/59)| |
 
 ## Our wonderful contributors 😃
 
