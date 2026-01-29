@@ -84,6 +84,7 @@ Click the image below, and you'll be directed to the YouTube playlist.
 |2025.11.26| VLM review, SAM 3D, Nano Banana Pro, C++ rant |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/58)| |
 |2025.12.03| MASt3R-Fusion, EGG-Fusion, AMB3R, LEGS, D-NeRF, DreamerV3, ENACT, GigaBrain-0 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/59)| |
 |2025.12.10| Alpamayo-R1, MobileVLA-R1, VLA-based Safe AI by Waymo |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/60)| |
+|2026.01.28| RF-DETR, Masked Depth Modeling, IGGT, RoMA V2, SpatialLLM |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/63)| |
 
 ## Our wonderful contributors 😃
 
