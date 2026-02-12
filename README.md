@@ -85,6 +85,7 @@ Click the image below, and you'll be directed to the YouTube playlist.
 |2025.12.03| MASt3R-Fusion, EGG-Fusion, AMB3R, LEGS, D-NeRF, DreamerV3, ENACT, GigaBrain-0 |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/59)| |
 |2025.12.10| Alpamayo-R1, MobileVLA-R1, VLA-based Safe AI by Waymo |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/60)| |
 |2026.01.28| RF-DETR, Masked Depth Modeling, IGGT, RoMA V2, SpatialLLM |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/63)| |
+|2026.02.11| TRLC-DK1, DIFIX3D+, SLAM tutorial, VGGT-SLAM 2.0, PyCuVSLAM, Rust VIO |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/65)| |
 
 ## Our wonderful contributors 😃
 
