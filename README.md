@@ -87,6 +87,7 @@ Click the image below, and you'll be directed to the YouTube playlist.
 |2026.01.28| RF-DETR, Masked Depth Modeling, IGGT, RoMA V2, SpatialLLM |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/63)| |
 |2026.02.11| TRLC-DK1, DIFIX3D+, SLAM tutorial, VGGT-SLAM 2.0, PyCuVSLAM, Rust VIO |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/65)| |
 |2026.02.25| Visual SLAM roadmap, GEAR-SONIC, AMD+Meta, Universal Beta Splatting, Reconstruct Anything, Qwen3.5, TinyClaw, Chroma, PointCloudCrafter, Splat Feature Solver |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/66)| |
+|2026.03.04| 대한민국 인공지능 행동계획, VLAExplain, Langcon, RoboDopamin, SimTooReal, Imagine a City, RAISECITY |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/67)| |
 
 ## Our wonderful contributors 😃
 
