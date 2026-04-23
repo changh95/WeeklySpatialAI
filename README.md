@@ -1,14 +1,14 @@
-# WeeklySpatialAI 🥳
+# WeeklyPhysicalAI 🥳
 
-`Weekly Spatial AI`는 매주 [Spatial AI KR](https://www.facebook.com/groups/spatialaikr/) 커뮤니티 멤버들이 온라인 모임을 통해 최신 Spatial AI 뉴스 및 자료를 공유하는 모임입니다.
+`Weekly Physical AI`는 매주 [Physical AI KR](https://www.facebook.com/groups/spatialaikr/) 커뮤니티 멤버들이 온라인 모임을 통해 최신 Physical AI 뉴스 및 자료를 공유하는 모임입니다.
 
-`Weekly Spatial AI` is a weekly online meetup amongst the members of the [Spatial AI KR](https://www.facebook.com/groups/spatialaikr/) community to share the latest news on Spatial AI. 
+`Weekly Physical AI` is a weekly online meetup amongst the members of the [Physical AI KR](https://www.facebook.com/groups/spatialaikr/) community to share the latest news on Physical AI. 
 
 ## Vision
 
-Spatial AI 분야의 현업자, 대학원생, 교수님들간의 정보교환 -> 최신 논문, 업계 현황, 신기술/신제품, 개발 노하우, 채용 공고, 유용한 테크 블로그 등...
+Physical AI 분야의 현업자, 대학원생, 교수님들간의 정보교환 -> 최신 논문, 업계 현황, 신기술/신제품, 개발 노하우, 채용 공고, 유용한 테크 블로그 등...
 
-Information exchange between experts in Spatial AI field from industry to academia -> latest papers, industry news, tips for development, latest technologies/products, job postings, useful tech blogs...
+Information exchange between experts in Physical AI field from industry to academia -> latest papers, industry news, tips for development, latest technologies/products, job postings, useful tech blogs...
 
 ## Meeting history
 
