@@ -89,6 +89,7 @@ Click the image below, and you'll be directed to the YouTube playlist.
 |2026.02.25| Visual SLAM roadmap, GEAR-SONIC, AMD+Meta, Universal Beta Splatting, Reconstruct Anything, Qwen3.5, TinyClaw, Chroma, PointCloudCrafter, Splat Feature Solver |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/66)| |
 |2026.03.04| 대한민국 인공지능 행동계획, VLAExplain, Langcon, RoboDopamin, SimTooReal, Imagine a City, RAISECITY |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/67)| |
 |2026.03.11| LoGer, SGG-Benchmark, OpenSandbox, Flash Attention 4, ART, TimesFM 2.5, SITS-DECO, Selfi |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/68)| |
+|2026.04.22| New Hesai LiDARs |[meeting log](https://github.com/changh95/WeeklySpatialAI/issues/71)| |
 
 ## Our wonderful contributors 😃
 
